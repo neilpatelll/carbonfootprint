@@ -5,6 +5,7 @@ This is a static HTML website developed as a group project for the Business Prof
 ## Contributors
 
 This project was developed by a group of students for the BPA club.
+
 ***This was my very first project on html. Learned lots from it and did even better the year after. 
 
 ## Project Overview
